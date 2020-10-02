@@ -1,1 +1,3 @@
 # FE-595-HW2
+Name: Haohang Li
+CWID: 10453218
